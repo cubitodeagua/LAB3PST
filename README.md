@@ -36,3 +36,9 @@ Validar n de 1 a 100; sin lecturas responder 404; si hay menos de n, usar todas.
 El docente debe probar el firmware en el hardware real y la red del aula,
 precargar las herramientas y validar las dependencias en los equipos.
 La guía destina 105 minutos a trabajar con el entorno ya preparado.
+Practica Grupal Homero Avellán y Ariel Lara , la respuesta de las preguntas estan en el doc , la manera de como ejecutar el archivo es abriendo una nueva terminal y seguir las instrucciones de la guia 
+
+
+
+
+
