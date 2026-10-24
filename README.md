@@ -36,7 +36,16 @@ Validar n de 1 a 100; sin lecturas responder 404; si hay menos de n, usar todas.
 El docente debe probar el firmware en el hardware real y la red del aula,
 precargar las herramientas y validar las dependencias en los equipos.
 La guía destina 105 minutos a trabajar con el entorno ya preparado.
-Practica Grupal Homero Avellán y Ariel Lara , la respuesta de las preguntas estan en el doc , la manera de como ejecutar el archivo es abriendo una nueva terminal y seguir las instrucciones de la guia 
+Practica Grupal Homero Avellán y Ariel Lara , la manera de como ejecutar el archivo es abriendo una nueva terminal y seguir las instrucciones de la guia 
+Preguntas de comprensión
+Pregunta 1: ¿Qué función recibe el JSON y cuál lo guarda?
+Recibe postlecturas y guarda
+Pregunta 2: ¿Qué archivo cambiarías para añadir una URL?
+El archivo que se debe cambiar debe ser routespy
+Pregunta 3: ¿Qué ocurre con las lecturas y el color cuando se reinicia la API? ¿Por qué?
+Vuelve a su estado inicial, esto pasa porque no se guarda en una base de datos.
+Pregunta 4: ¿Por qué una petición con JSON bien escrito puede devolver 422? Indica qué archivo define esa validación.
+Esto puede suceder cuando se envia un tipo de dato que no es valido
 
 
 
