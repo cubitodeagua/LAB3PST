@@ -46,6 +46,8 @@ Pregunta 3: ¿Qué ocurre con las lecturas y el color cuando se reinicia la API?
 Vuelve a su estado inicial, esto pasa porque no se guarda en una base de datos.
 Pregunta 4: ¿Por qué una petición con JSON bien escrito puede devolver 422? Indica qué archivo define esa validación.
 Esto puede suceder cuando se envia un tipo de dato que no es valido
+Pregunta 5: Explica el recorrido completo de una lectura: ESP8266, ruta, modelo, servicio, almacenamiento y respuesta. ¿En qué momento cambia el LED?
+El ESP8266 manda la información al JSON y se procesa antes de guardar los datos en la memoria, el led, se cambia cuando actualizamos la variable color en la API.
 
 
 
